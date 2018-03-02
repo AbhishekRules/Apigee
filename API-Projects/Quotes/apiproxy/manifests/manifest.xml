@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies>
+        <VersionInfo resourceName="TargetUrl" version="c4593802ecc2d14166061dfced6b28f8e4ec7a46bd859bfd9a4bae4d8f5c155ca98bd1017510e27fdec3716465008e46eb7c8c9858c8603d3d0cb24e7a7ddb0f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="8c629039b1abfd6e5446779b355d88c26f208cd309ba47ae3ccfc1934732a9c1eb862fe4842f2521250da12a3e437f2b508756552417a3f86cc0b17f52ce9302"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://targetUrl.js" version="14698998061af28a3c6ae2ca4ca68ea569684e4e76bae530e9f5720df72cccb2b4d82e443daf1b70bccf1991aa25cd7c63977d51de6050620315eb145260c62c"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="bf9967054a40c69ddb2f00a14146e65f0e4e1bdb12f179a967dea8573d1ed6b75ca4734bdf6416bc9001ee2644614f66e2e9385585a01d4bb7d9c7535bf60eaa"/>
+    </TargetEndpoints>
+</Manifest>

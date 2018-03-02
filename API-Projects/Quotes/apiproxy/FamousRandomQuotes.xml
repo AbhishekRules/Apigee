@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="FamousRandomQuotes">
+    <Basepaths>/v1/quotes</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1519978945988</CreatedAt>
+    <CreatedBy>rameshganta888@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>FamousRandomQuotes</DisplayName>
+    <LastModifiedAt>1519979463627</LastModifiedAt>
+    <LastModifiedBy>rameshganta888@gmail.com</LastModifiedBy>
+    <ManifestVersion>db7c8fe7662cd19b31282db2d01134ed7db6c9168a490f6eb4fb01cd0c405dbbc476d111ed1214233494dfd366968ae22029bbb650fcf03a65d1c2a704d262c9</ManifestVersion>
+    <Policies>
+        <Policy>TargetUrl</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://targetUrl.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

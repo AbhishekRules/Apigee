@@ -1,0 +1,60 @@
+{
+	"id": "fc629891-500d-fa93-10f4-487079a274a0",
+	"name": "Quotes",
+	"description": "",
+	"order": [
+		"02df1764-7906-da14-1565-14a0693cc7eb",
+		"6291a5a1-18a2-ee87-b4ee-ca18bd9c35e4"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1519979408104,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "02df1764-7906-da14-1565-14a0693cc7eb",
+			"headers": "",
+			"headerData": [],
+			"url": "http://hwtraining-test.apigee.net/v1/quotes/getQuotes",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1519979416458,
+			"name": "FamousQuotes",
+			"description": "",
+			"collectionId": "fc629891-500d-fa93-10f4-487079a274a0",
+			"responses": []
+		},
+		{
+			"id": "6291a5a1-18a2-ee87-b4ee-ca18bd9c35e4",
+			"headers": "",
+			"headerData": [],
+			"url": "http://hwtraining-test.apigee.net/v1/quotes/movieQuotes",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "fc629891-500d-fa93-10f4-487079a274a0",
+			"data": null,
+			"dataMode": "params",
+			"name": "MovieQuotes",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519979528962,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
